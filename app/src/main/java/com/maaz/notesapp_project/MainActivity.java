@@ -168,6 +168,8 @@ public class MainActivity extends AppCompatActivity {
 
         adapter.searchNotes(filterNames); // pass this list to searchView method.
 
+        // New Comments Added Bro just check it
+
     }
 
 
