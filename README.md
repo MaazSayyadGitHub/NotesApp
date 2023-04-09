@@ -5,13 +5,13 @@
 
 ## Screenshots
 
-### Splash Screen
-### Home Screen
-### Add-Update Screen
-### Priority Feature GREEN - YELLOW - RED.
-### Search Feature.
-### Delete Feature.
-### Filter Feature.
+#### Splash Screen
+#### Home Screen
+#### Add-Update Screen
+#### Priority Feature GREEN - YELLOW - RED.
+#### Search Feature.
+#### Delete Feature.
+#### Filter Feature.
 
 <div>
   <img src="https://user-images.githubusercontent.com/116147402/230604120-979dc3a0-3a90-47c0-8846-8528ddf6a4aa.png" alt="dashboard" height="500dp">
