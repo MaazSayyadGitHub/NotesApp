@@ -2,7 +2,7 @@
 # This App is made with ( MVVM , Room, Java, Xml ) 
 
 # Splash Screen
-![Splash_Screen 1](https://user-images.githubusercontent.com/116147402/230604120-979dc3a0-3a90-47c0-8846-8528ddf6a4aa.png | width=50) 
+![Splash_Screen 1](https://user-images.githubusercontent.com/116147402/230604120-979dc3a0-3a90-47c0-8846-8528ddf6a4aa.png) 
 
 # Home Screen
 ![Home Screen](https://user-images.githubusercontent.com/116147402/230758758-0b84a1ef-d1dd-408a-8fa4-4f94fce7c7f6.png)
