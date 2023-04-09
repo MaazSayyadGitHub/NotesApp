@@ -33,7 +33,6 @@ Delete Feature.
 Filter Feature.
 
 
-
 ![Filter 1](https://user-images.githubusercontent.com/116147402/230604578-460bba20-8f3e-4d81-bc6f-2c07487dfe7f.png)
 
 
