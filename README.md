@@ -1,12 +1,7 @@
 # NotesApp
 ### This App is made with ( MVVM , Room, Java, Xml ) 
 
-
-
-## Screenshots
-
-
-
+## SCREENSHOTS
 
 #### Splash Screen
 #### Home Screen
